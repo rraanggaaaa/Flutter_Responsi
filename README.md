@@ -1,16 +1,19 @@
-# flutter_paml_e_5210411054
+# NPM: 5210411054
+# NAMA: DWI RANGGA OKTA ZUHDIYANTO
+# MATA KULLIAH: PENGEMBANGAN APLIKASI MOBILE LANJUT - E
 
-A new Flutter project.
+# Splash Screen
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Splashscreen.png)
+# SignUp
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Signup.png)
+# Login
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Login.png)
+# Forgot Password
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/ForgotPassword.png)
+# Home
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Home.png)
+# Profile
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Akun.png)
+# Edit Profile
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/EditProfile.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
