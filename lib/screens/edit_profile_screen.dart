@@ -17,7 +17,7 @@ class EditProfileScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(
-              'lib/assets/images/logopaml.png', // Pastikan path gambar benar
+              'lib/assets/images/photo.jpg', // Pastikan path gambar benar
               height: 150,
             ),
             const SizedBox(height: 20),
