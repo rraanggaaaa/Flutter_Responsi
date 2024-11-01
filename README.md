@@ -6,10 +6,18 @@
 ## NAMA: DWI RANGGA OKTA ZUHDIYANTO
 ## MATA KULLIAH: PENGEMBANGAN APLIKASI MOBILE LANJUT - E
 
-## Screenshots
-![App Screenshot](https://github.com/YOUR_USERNAME/Flutter_Responsi/blob/main/screenshots/screenshot1.png)
-
-## Features
-- Feature 1
-- Feature 2
+## Splash Screen
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Splashscreen.png)
+## SignUp
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Signup.png)
+## Login
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Login.png)
+## Forgot Password
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Forgotpassword.png)
+## Home
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/home.png)
+## Profile
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Akun.png)
+## Edit Profile
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Editprofile.png)
 
