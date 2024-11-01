@@ -9,11 +9,11 @@
 # Login
 ![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Login.png)
 # Forgot Password
-![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Forgotpassword.png)
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/ForgotPassword.png)
 # Home
-![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/home.png)
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Home.png)
 # Profile
 ![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Akun.png)
 # Edit Profile
-![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/Editprofile.png)
+![App Screenshot](https://github.com/rraanggaaaa/Flutter_Responsi/blob/master/EditProfile.png)
 
